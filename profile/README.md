@@ -1,3 +1,3 @@
 # SchedPlanner
 
-An easy way to manage your workers' schedule.
+An easy way to manage your employees' schedule.
